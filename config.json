@@ -1,0 +1,17 @@
+{
+  "one_coin_purchase":true,
+  "multiple_purchase":false,
+  "disposable_purchase":true,
+  "disposable_iterator":0,
+  "Robi_level_3_cost_last_robiboost":1000,
+  "Robi_level_4_cost":3000,
+  "Robi_level_4_cost_last_robiboost":5000,
+  "Robi_level_5_cost":6000,
+  "Robi_level_5_cost_last_robiboost":15000,
+  "Robi_level_6_cost":15000,
+  "Collectibles_level_1_cost":600,
+  "Collectibles_level_2_cost":3000,
+  "Collectibles_level_3_cost":6000,
+  "Collectibles_level_4_cost":15000,
+  "Collectibles_level_5_cost":30000
+}
